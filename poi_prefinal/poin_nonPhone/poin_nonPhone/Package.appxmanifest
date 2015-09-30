@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="23f5cf48-4a4d-476b-883e-fb8e4c9d217c" Publisher="CN=gman109" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>poin_nonPhone</DisplayName>
+    <PublisherDisplayName>gman109</PublisherDisplayName>
+    <Logo>Assets\Logo-Copy.jpg</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="poin_nonPhone.App">
+      <m2:VisualElements DisplayName="Generate Points of Interests" Square150x150Logo="Assets\Logo.jpg" Square30x30Logo="Assets\Logo-Copy-Copy.jpg" Description="will generate points of interest" ForegroundText="light" BackgroundColor="#464646">
+        <m2:DefaultTile ShortName="POI's" DefaultSize="square150x150Logo">
+        </m2:DefaultTile>
+        <m2:SplashScreen Image="Assets\IMG_4079.jpg" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="location" />
+  </Capabilities>
+</Package>

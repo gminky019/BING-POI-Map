@@ -1,0 +1,74 @@
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\bin\x86\Debug\App.xbf
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\bin\x86\Debug\MainPage.xbf
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\bin\x86\Debug\poin_nonPhone.xr.xml
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\bin\x86\Debug\poin_nonPhone.exe
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\bin\x86\Debug\poin_nonPhone.pdb
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\bin\x86\Debug\resources.pri
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\bin\x86\Debug\AppxManifest.xml
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\bin\x86\Debug\poin_nonPhone.build.appxrecipe
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\bin\x86\Debug\Bing.Maps.xml
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\App.g.i.cs
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\App.g.cs
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\MainPage.g.cs
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\App.xaml
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\App.xbf
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\MainPage.xaml
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\MainPage.xbf
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\poin_nonPhone.exe
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\poin_nonPhone.pdb
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\poin_nonPhone.csproj.GenerateResource.Cache
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\priconfig.xml
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\layout.resfiles
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\resources.resfiles
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\pri.resfiles
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\qualifiers.txt
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gman109\documents\visual studio 2013\Projects\poin_nonPhone\poin_nonPhone\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\bin\x86\Debug\App.xbf
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\bin\x86\Debug\MainPage.xbf
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\bin\x86\Debug\poin_nonPhone.xr.xml
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\bin\x86\Debug\poin_nonPhone.exe
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\bin\x86\Debug\poin_nonPhone.pdb
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\bin\x86\Debug\Bing.Maps.xml
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\App.g.i.cs
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\App.g.cs
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\MainPage.g.cs
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\App.xaml
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\MainPage.xaml
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\App.xbf
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\MainPage.xbf
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\poin_nonPhone.exe
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\poin_nonPhone.pdb
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\poin_nonPhone.csproj.GenerateResource.Cache
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\bin\x86\Debug\resources.pri
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\bin\x86\Debug\AppxManifest.xml
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\bin\x86\Debug\poin_nonPhone.build.appxrecipe
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\priconfig.xml
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\layout.resfiles
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\resources.resfiles
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\pri.resfiles
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\qualifiers.txt
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\v-gamink\Desktop\poi_prefinal\poin_nonPhone\poin_nonPhone\obj\x86\Debug\ProjectArchitectures.txt
